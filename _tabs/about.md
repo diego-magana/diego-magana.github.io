@@ -12,3 +12,5 @@ MSCS (AI) at Johns Hopkins. A decade of progressive experience across data
 science, machine learning, and engineering leadership.
 
 **Find me**: [GitHub](https://github.com/diego-magana) · [LinkedIn](https://www.linkedin.com/in/diego-daryl-magana) · [Email](mailto:diegomagana@gmail.com)
+
+**[Download Resume (PDF)](https://diego-magana.github.io/assets/files/resume.pdf)**

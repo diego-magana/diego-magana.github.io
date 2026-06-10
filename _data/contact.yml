@@ -10,6 +10,11 @@
 # - type: twitter
 #   icon: "fa-brands fa-x-twitter"
 
+- type: resume
+  icon: "fas fa-file-pdf"
+  url: "/assets/files/resume.pdf"
+  noblank: true
+
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab

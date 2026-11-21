@@ -16,12 +16,11 @@ timezone: America/Los_Angeles
 
 title: Diego Magana
 
-tagline: Machine Learning Engineer · MSCS (AI) at Georgia Tech
+tagline: Principal Engineer · ML Systems and LLM Inference
 
 description: >- # used by seo meta and the atom feed
-  Building ML systems from mathematical foundations to production —
-  language models, deep learning architectures, and mechanistic
-  interpretability. Implementation-first, research-informed.
+  ML systems built from scratch, from autograd to transformers, with
+  attention to how models train, run and fail.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.

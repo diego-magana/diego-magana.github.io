@@ -4,12 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Machine learning engineer building ML systems from mathematical foundations
-to production — language models, deep learning architectures, and mechanistic
-interpretability. Implementation-first, research-informed.
+I'm a Principal Engineer and an MSCS (AI) student at Georgia Tech, starting Spring 2027. Before that I was a Senior Data Scientist, where I built my company's first ML function.
 
-MSCS (AI) at Georgia Tech. A decade of progressive experience across data
-science, machine learning, and engineering leadership.
+This site covers ML systems I build from scratch to understand how they work: language models, deep learning architectures and mechanistic interpretability.
 
 **Find me**: [GitHub](https://github.com/diego-magana) · [LinkedIn](https://www.linkedin.com/in/diego-daryl-magana) · [Email](mailto:diegomagana@gmail.com)
 
